@@ -174,7 +174,7 @@ form input {
 }
 
 form input:focus {
-    border-color: #00d9ff;
+    border-color: #7ce1f3;
     outline: none;
 }
 
